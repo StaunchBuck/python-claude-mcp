@@ -113,7 +113,12 @@ There are no lint or type checks implemented.
 
 
 ### To run mcp server
-mcp dev mcp_server.py
+```
+> mcp dev mcp_server.py
+```
 
 ### To run mcp client
-uv run mcp_client.py
+
+```
+> uv run mcp_client.py
+```
